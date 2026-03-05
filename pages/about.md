@@ -27,7 +27,8 @@ credits: true
 
 <h5> Friends Historical Library </h5>
 <ul>
-  <li>Caitlin Goodman</li>
+  <li>Celia Caust-Ellenbogen</li>
+  <li>Caitlin Goodman</li> 
 </ul>
 
 <h5> Students of ARTH083 - Object, Media, Matter - Introduction to Material Culture and Material Histories</h5>
