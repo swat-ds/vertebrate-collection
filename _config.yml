@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://swat-ds.github.io/material-culture
+url: https://swat-ds.github.io/vertebrate-collection
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /material-culture
+baseurl: /vertebrate-collection
 # location of code, the full url to your github repository
-source-code: https://github.com/swat-ds/material-culture/
+source-code: https://github.com/swat-ds/vertebrate-collection/
 
 ##########
 # SITE SETTINGS
