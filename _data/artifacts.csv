@@ -1,0 +1,51 @@
+objectid,title,commonname,class,order,suborder,family,bone_type,item_code,notes,location,subject,cabinet,source,old_code,rights,rightsstatement,type,format,group,display_template,language,object_location,image_small,image_thumb
+oc001,(Atractosteus) tristoechus,Cuban Gar,Actinopterygii,Semionotiformes,N/A,Lepidosteidae,Full Mounted Skeleton ,SC 1474,,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc002,(Atractosteus) tristoechus,Cuban Gar,Actinopterygii,Semionotiformes,N/A,Lepidosteidae,"Skull, mandible ",SC 1475,Mandible broken ,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc003,Amia calva,Bowfin,Actinopterygii,Amiiformes,Amiioidei,Amiidae,Caudal fin bones,SC 1518,,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc004,,,Actinopterygii,,N/A,,Mounted Skull ,SC 1514,Species determination uncertain ,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc005,,,Actinopterygii,,N/A,,Mounted Skeleton ,SC 1515,Species determination uncertain ,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc006,Gadus morhua,Atlantic Cod,Actinopterygii,Gadiformes,Gadoidei,Gadidae,Pectoral and Pactoral girdles ,SC 1517,,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc007,,,Actinopterygii,,N/A,,Vertebrae ,SC 1519,Vertebrae of various fish species ,,Fish,,,,,,,,,,,,,
+oc008,Lutjanus cyanopterus,Cubera Snapper,Actinopterygii,Lutjaniformes,Percoidei,Lutjanidae,Neurocranium ,SC 2009,Species identification uncertain ,,Fish,,,,,,,,,,,,,
+oc009,Carcharhinus leucas,Bull shark,Actinopterygii,Carcharhiniformes,N/A,Carcharhinidae,Mounted Jaw bones ,SC 1516,Species Determination uncertain ,,Shark,,,,,,,,,,,,,
+oc010,Otodus megalodon,Megalodon,Chondrichthyes,Lamniformes,Selachii,Otodontidae,Fossilized Tooth,SC 2004,"Period: Miocene, Formation: Phosphate Beds, Found in South Florida",,Shark,,,,,,,,,,,,,
+oc011,Otodus megalodon,Megalodon,Chondrichthyes,Lamniformes,Selachii,Otodontidae,Fossilized Tooth,SC 2005,"Period: Miocene, Formation: Phosphate Beds, Found in South Florida",,Shark,,,,,,,,,,,,,
+oc012,,,Chondrichthyes,,N/A,,Fossilized Tooth,SC 2006,,,Shark,,,,,,,,,,,,,
+oc013,,,Chondrichthyes,,N/A,,Fossilized Tooth,SC 2007,,,Shark,,,,,,,,,,,,,
+oc014,,,Chondrichthyes,,N/A,,Fossilized Tooth,SC 2008,,,Shark,,,,,,,,,,,,,
+oc015,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Full Mounted Skeleton ,SC 1492,Specimen in glass casing ,,Salamander,,,,,,,,,,,,,
+oc016,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1493,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc017,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1494,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc018,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1495,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc019,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1496,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc020,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1497,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc021,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1498,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc022,Rana sp. ,European Grass Frog ,Amphibia,Anura, Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1499,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc023,Rana sp. ,European Grass Frog ,Amphibia,Anura, Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1500,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc024,Rana sp. ,European Grass Frog ,Amphibia,Anura, Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1501,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc025,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1502,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc026,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1503,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc027,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1504,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc028,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1505,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc029,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1506,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc030,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1507,,,Frog,,,,,,,,,,,,,
+oc031,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1508,,,Frog,,,,,,,,,,,,,
+oc032,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1509,,,Frog,,,,,,,,,,,,,
+oc033,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1510,,,Frog,,,,,,,,,,,,,
+oc034,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1511,,,Frog,,,,,,,,,,,,,
+oc035,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1512,,,Frog,,,,,,,,,,,,,
+oc036,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1513,,,Frog,,,,,,,,,,,,,
+oc037,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Skull ,SC 1520,,,Frog,,,,,,,,,,,,,
+oc038,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Skull ,SC 1521,,,Frog,,,,,,,,,,,,,
+oc039,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,"Skull, vertebrae",SC 1522,,,Frog,,,,,,,,,,,,,
+oc040,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 2000,,,Frog,,,,,,,,,,,,,
+oc041,Anaxyrus americanus,American Toad,Amphibia,Anura,Neobatrachia,Bufonidae,Full mounted Skeleton ,SC 2001,,,Frog,,,,,,,,,,,,,
+oc042,Branta canadensis,Canada Goose ,Aves,Anseriformes,N/A,Anatidae,Full Mounted Skeleton ,SC 1400,,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1400.jpg,/objects/small/sc1400_sm.jpg,/objects/thumbs/sc1400_th.jpg
+oc043,Haliaeetus leucocephalus,Bald Eagle ,Aves,Accipitriformes,N/A,Accitripidae,Full Mounted Skeleton ,SC 1401,,,Bird,,,,,,,,,,,,,
+oc044,Gavia immer,Great Northern Loon,Aves,Gaviiformes,N/A,Gaviidae,"Skull, Mandible",SC 1402,,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1402.jpg,/objects/small/sc1402_sm.jpg,/objects/thumbs/sc1402_th.jpg
+oc045,Gavia immer,Great Northern Loon,Aves,Gaviiformes,N/A,Gaviidae,"Skull, Mandible",SC 1403,,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1403.jpg,/objects/small/sc1403_sm.jpg,/objects/thumbs/sc1403_th.jpg
+oc046,Gavia immer,Great Northern Loon,Aves,Gaviiformes,N/A,Gaviidae,"Skull, Mandible, Ocular, Sturnum Bones ",SC 1404,,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1404.jpg,/objects/small/sc1404_sm.jpg,/objects/thumbs/sc1404_th.jpg
+oc047,Calidris sp. ,American Knot,Aves,Charadriiformes,Scolopaci,Scolopacidae,"Skull, Mandible",SC 1405,species determination uncertain ,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1405.jpg,/objects/small/sc1405_sm.jpg,/objects/thumbs/sc1405_th.jpg
+oc048,Calidris sp. ,American Knot,Aves,Charadriiformes,Scolopaci,Scolopacidae,"Skull, Mandible",SC 1406,species determination uncertain ,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1406.jpg,/objects/small/sc1406_sm.jpg,/objects/thumbs/sc1406_th.jpg
+oc049,Anatidae,Duck ,Aves,Anseriformes,N/A,Anatidae,"Skull, Mandible",SC 1407,Specific species is unkown,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1407.jpg,/objects/small/sc1407_sm.jpg,/objects/thumbs/sc1407_th.jpg
+oc050,Anatidae,Duck ,Aves,Anseriformes,N/A,Anatidae,"Skull, Mandible",SC 1408,Specific species is unkown,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1408.jpg,/objects/small/sc1408_sm.jpg,/objects/thumbs/sc1408_th.jpg
