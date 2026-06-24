@@ -1,0 +1,142 @@
+objectid,parentid,title,commonname,class,order,suborder,family,bone_type,item_code,notes,location,subject,cabinet,source,old_code,rights,rightsstatement,type,format,group,display_template,language,object_location,image_small,image_thumb
+oc001,,Atractosteus tristoechus,Cuban Gar,Actinopterygii,Semionotiformes,n/a,Lepidosteidae,Full Mounted Skeleton ,SC 1474,,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc002,,Atractosteus tristoechus,Cuban Gar,Actinopterygii,Semionotiformes,n/a,Lepidosteidae,"Skull, mandible ",SC 1475,Mandible broken ,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc003,,Amia calva,Bowfin,Actinopterygii,Amiiformes,Amiioidei,Amiidae,Caudal fin bones,SC 1518,,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc004,,Actinopterygii sp. ,,Actinopterygii,,n/a,,Mounted Skull ,SC 1514,Species determination uncertain ,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc005,,Actinopterygii sp. ,,Actinopterygii,,n/a,,Mounted Skeleton ,SC 1515,Species determination uncertain ,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc006,,Gadus morhua,Atlantic Cod,Actinopterygii,Gadiformes,Gadoidei,Gadidae,Pectoral and Pactoral girdles ,SC 1517,,,Fish,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/fmharea01.png,/objects/small/fmharea01_sm.jpg,/objects/thumbs/fmharea01_th.jpg
+oc007,,Actinopterygii sp. ,,Actinopterygii,,n/a,,Vertebrae ,SC 1519,Vertebrae of various fish species ,,Fish,,,,,,,,,,,,,
+oc008,,Lutjanus cyanopterus,Cubera Snapper,Actinopterygii,Lutjaniformes,Percoidei,Lutjanidae,Neurocranium ,SC 2009,Species identification uncertain ,,Fish,,,,,,,,,,,,,
+oc009,,Carcharhinus leucas,Bull shark,Actinopterygii,Carcharhiniformes,n/a,Carcharhinidae,Mounted Jaw bones ,SC 1516,Species Determination uncertain ,,Shark,,,,,,,,,,,,,
+oc010,,Otodus megalodon,Megalodon,Chondrichthyes,Lamniformes,Selachii,Otodontidae,Fossilized Tooth,SC 2004,"Period: Miocene, Formation: Phosphate Beds, Found in South Florida",,Shark,,,,,,,,,,,,,
+oc011,,Otodus megalodon,Megalodon,Chondrichthyes,Lamniformes,Selachii,Otodontidae,Fossilized Tooth,SC 2005,"Period: Miocene, Formation: Phosphate Beds, Found in South Florida",,Shark,,,,,,,,,,,,,
+oc012,,Chondrichthyes sp.,unknown,Chondrichthyes,,n/a,,Fossilized Tooth,SC 2006,,,Shark,,,,,,,,,,,,,
+oc013,,Chondrichthyes sp.,unknown,Chondrichthyes,,n/a,,Fossilized Tooth,SC 2007,,,Shark,,,,,,,,,,,,,
+oc014,,Chondrichthyes sp.,unknown,Chondrichthyes,,n/a,,Fossilized Tooth,SC 2008,,,Shark,,,,,,,,,,,,,
+oc015,,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Full Mounted Skeleton ,SC 1492,Specimen in glass casing ,,Salamander,,,,,,,,,,,,,
+oc016,,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1493,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc017,,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1494,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc018,,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1495,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc019,,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1496,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc020,,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1497,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc021,,Necturus maculosus,Mudpuppy ,Amphibia,Caudata,Salamandroidea,Proteidae,Skull ,SC 1498,"Specimen in glass casing, skull disarticulated",,Salamander,,,,,,,,,,,,,
+oc022,,Rana sp. ,European Grass Frog ,Amphibia,Anura, Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1499,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc023,,Rana sp. ,European Grass Frog ,Amphibia,Anura, Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1500,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc024,,Rana sp. ,European Grass Frog ,Amphibia,Anura, Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1501,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc025,,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1502,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc026,,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1503,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc027,,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1504,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc028,,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1505,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc029,,Rana sp. ,European Grass Frog ,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1506,"Specimen in plastic, species determination uncertain ",,Frog,,,,,,,,,,,,,
+oc030,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1507,,,Frog,,,,,,,,,,,,,
+oc031,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full Mounted Skeleton ,SC 1508,,,Frog,,,,,,,,,,,,,
+oc032,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1509,,,Frog,,,,,,,,,,,,,
+oc033,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1510,,,Frog,,,,,,,,,,,,,
+oc034,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1511,,,Frog,,,,,,,,,,,,,
+oc035,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1512,,,Frog,,,,,,,,,,,,,
+oc036,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 1513,,,Frog,,,,,,,,,,,,,
+oc037,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Skull ,SC 1520,,,Frog,,,,,,,,,,,,,
+oc038,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Skull ,SC 1521,,,Frog,,,,,,,,,,,,,
+oc039,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,"Skull, vertebrae",SC 1522,,,Frog,,,,,,,,,,,,,
+oc040,,Aquarana catesbeiana,American Bullfrog,Amphibia,Anura,Neobatrachia,Ranidae,Full mounted Skeleton ,SC 2000,,,Frog,,,,,,,,,,,,,
+oc041,,Anaxyrus americanus,American Toad,Amphibia,Anura,Neobatrachia,Bufonidae,Full mounted Skeleton ,SC 2001,,,Frog,,,,,,,,,,,,,
+oc042,,Branta canadensis,Canada Goose ,Aves,Anseriformes,n/a,Anatidae,Full Mounted Skeleton ,SC 1400,,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1400.jpg,/objects/small/sc1400_sm.jpg,/objects/thumbs/sc1400_th.jpg
+oc043,,Haliaeetus leucocephalus,Bald Eagle ,Aves,Accipitriformes,n/a,Accitripidae,Full Mounted Skeleton ,SC 1401,,,Bird,,,,,,,,,,,,,
+oc044,,Haliaeetus leucocephalus,Bald Eagle ,Aves,Gaviiformes,n/a,Accitripidae,Oculi and Columella ,SC 2017,N.A. Meinkoth 1945,,Bird,,,,,,,,,,,,,
+oc045,,Gavia immer,Great Northern Loon,Aves,Gaviiformes,n/a,Gaviidae,"Skull, Mandible",SC 1402,,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1402.jpg,/objects/small/sc1402_sm.jpg,/objects/thumbs/sc1402_th.jpg
+oc046,,Gavia immer,Great Northern Loon,Aves,Gaviiformes,n/a,Gaviidae,"Skull, Mandible",SC 1403,,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1403.jpg,/objects/small/sc1403_sm.jpg,/objects/thumbs/sc1403_th.jpg
+oc047,,Gavia immer,Great Northern Loon,Aves,Charadriiformes,n/a,Gaviidae,"Skull, Mandible, Ocular, Sturnum Bones ",SC 1404,,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1404.jpg,/objects/small/sc1404_sm.jpg,/objects/thumbs/sc1404_th.jpg
+oc048,,Calidris sp. ,American Knot,Aves,Charadriiformes,Scolopaci,Scolopacidae,"Skull, Mandible",SC 1405,species determination uncertain ,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1405.jpg,/objects/small/sc1405_sm.jpg,/objects/thumbs/sc1405_th.jpg
+oc049,,Calidris sp. ,American Knot,Aves,Anseriformes,Scolopaci,Scolopacidae,"Skull, Mandible",SC 1406,species determination uncertain ,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1406.jpg,/objects/small/sc1406_sm.jpg,/objects/thumbs/sc1406_th.jpg
+oc050,,Anatidae,Duck ,Aves,Anseriformes,n/a,Anatidae,"Skull, Mandible",SC 1407,,,Bird,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1407.jpg,/objects/small/sc1407_sm.jpg,/objects/thumbs/sc1407_th.jpg
+oc051,,Anatidae,Duck ,Aves,Psittaciformes ,n/a,Anatidae,"Skull, Mandible",SC 1408,,,,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1408.jpg,/objects/small/sc1408_sm.jpg,/objects/thumbs/sc1408_th.jpg
+oc052,,Accipitriformes sp.,Parrot,Aves,Accipitriformes,n/a,,"Skull, Mandible",SC 1409,Species determination uncertain,,,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1409.jpg,/objects/small/sc1409_sm.jpg,/objects/thumbs/sc1409_th.jpg
+oc053,,Accipitriformes sp.,Vulture,Aves,Accipitriformes,n/a,Catharidae or Accipitridae,"Skull, Mandible",SC 1410,,,,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1410.jpg,/objects/small/sc1410_sm.jpg,/objects/thumbs/sc1410_th.jpg
+oc054,,Galliformes sp.,unknown,Aves,Galliformes,n/a,,Skull ,SC 1411,"No mandilbe, Species determination uncertain ",,,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1411.jpg,/objects/small/sc1411_sm.jpg,/objects/thumbs/sc1411_th.jpg
+oc055,,Galliformes sp.,unknown,Aves,Galliformes,n/a,,"Skull, mandible",SC 1412,Species determination uncertain ,,,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1412.jpg,/objects/small/sc1412_sm.jpg,/objects/thumbs/sc1412_th.jpg
+oc082,,Meleagris gallopavo,Common Turkey ,Aves,Galliformes,n/a,Phasianidae,"Skull, Mandible ",SC 1439,,,,,,,,,Image;StillImage,image/jpg,artifact,artifact_image,,/objects/sc1439.jpg,/objects/small/sc1439_sm.jpg,/objects/thumbs/sc1439_th.jpg
+oc104,,Melanerpes carolinus,Red-Bellied Woodpecker,Aves,Piciformes,Pici,Picidae,Complete Skeleton ,SC 2010,"In a medicine bottle. Collected October 3 2006. Location: Swarthmore, PA, Gender: Male",,,,,,,,,,,,,,,
+oc105,,Hylocichla mustelina,Wood Thrush ,Aves,Passeriformes,Passeri,Turdidae,Complete Skeleton ,SC 2011,"In a medicine bottle. Collected: May 2006, Location: Swarthmore PA, Gender: Male",,,,,,,,,,,,,,,
+oc106,,Spinus tristis,American Goldfinch,Aves,Passeriformes,Passeri,Fringillidae,Complete Skeleton ,SC 2012,"In a medicine bottle. Collected: November 22 2005, Location: Swarthmore PA, Gender: Female",,,,,,,,,,,,,,,
+oc107,,Corthylio calendula,Ruby-Crowned Kinglet ,Aves,Passeriformes,Passeri,Regulidae,Complete Skeleton ,SC 2013,"In a medicine bottle. Collected: October 15 2006, Location: Swarthmore PA, ",,,,,,,,,,,,,,,
+oc108,,Setophaga americana,Northern Parula ,Aves,Passeriformes,Passeri,Parulidae,Complete Skeleton ,SC 2014,"In a medicine bottle. Collected: September 21 2004, Location: Swarthmore, PA, Gender: Male",,,,,,,,,,,,,,,
+oc109,,Cetartiodactyl sp. ,Whale,Mammalia,Artiodactyla ,Cetartiodactyl,,Vertebrae Pieces,SC 2031,Species determination uncertain ,,,,,,,,,,,,,/objects/sc2031.jpg,/objects/small/sc2031_sm.jpg,/objects/thumbs/sc2031_th.jpg
+oc110,,Delphinapterus leucas,Beluga Whale,Mammalia,Artiodactyla ,Odontoceti,Monodontidae,Vertebrae ,SC 1370,Species determination uncertain ,,,,,,,,,,,,,/objects/sc1370.jpg,/objects/small/sc1370_sm.jpg,/objects/thumbs/sc1370_th.jpg
+oc111,,Cetartiodactyl sp. ,Whale,Mammalia,Artiodactyla ,Cetartiodactyl,,3 Otic,SC 2036,Species determination uncertain ,,,,,,,,,,,,,/objects/sc2036.jpg,/objects/small/sc2036_sm.jpg,/objects/thumbs/sc2036_th.jpg
+oc112,,Antilocapra americana,Pronghorn,Mammalia,Artiodactyla ,Ruminantia ,Antilocapridae,Forelimb Bones ,SC 1353,Species determination uncertain ,,,,,,,,,,,,,/objects/sc1353.jpg,/objects/small/sc1353_sm.jpg,/objects/thumbs/sc1353_th.jpg
+oc113,,Antilocapra americana,Pronghorn,Mammalia,Artiodactyla ,Ruminantia ,Antilocapridae,Forelimb Bones ,SC 1354,"Species determination uncertain, specimen includes scapula ",,,,,,,,,,,,,/objects/sc1354.jpg,/objects/small/sc1354_sm.jpg,/objects/thumbs/sc1354_th.jpg
+oc114,,Antilocapra americana,Pronghorn ,Mammalia,Artiodactyla ,Ruminantia ,Antilocapridae,Hindlimb Bones ,SC 1355,Species determination uncertain ,,,,,,,,,,,,,/objects/sc1355.jpg,/objects/small/sc1355_sm.jpg,/objects/thumbs/sc1355_th.jpg
+oc115,,Bovidae sp. ,,Mammalia,Artiodactyla ,Ruminantia,Bovidae,Mandible ,SC 1390,Species determination uncertain ,,,,,,,,,,,,,/objects/sc1390.jpg,/objects/small/sc1390_sm.jpg,/objects/thumbs/sc1390_th.jpg
+oc116,,Euceratherium collinum,Extinct Shrub-ox,Mammalia,Artiodactyla ,Ruminantia,Bovidae,Mandible Piece,SC 2030,,,,,,,,,,,,,,/objects/sc2030.jpg,/objects/small/sc2030_sm.jpg,/objects/thumbs/sc2030_th.jpg
+oc117,,Rupicapra rupicapra ,Chamois (goat) ,Mammalia,Artiodactyla ,Ruminantia ,Bovidae ,"Full skeleton, mounted",SC 1002 ,,,,,,,,,,,,,,/objects/sc1002.jpg,/objects/small/sc1002_sm.jpg,/objects/thumbs/sc1002_th.jpg
+oc118,,Bos taurus ,Domestic Cattle ,Mammalia,Artiodactyla ,Ruminantia ,Bovidae ,"Skull, mandible ",SC 1009,,,,,,,,,,,,,,/objects/sc1009.jpg,/objects/small/sc1009_sm.jpg,/objects/thumbs/sc1009_th.jpg
+oc119,,Capra hircus ,Domestic Goat ,Mammalia,Artiodactyla ,Ruminantia ,Bovidae ,Skull ,SC 1018,"Donated by Joaquin Feliciano, as found in field ",,,,,,,,,,,,,/objects/sc1018.jpg,/objects/small/sc1018_sm.jpg,/objects/thumbs/sc1018_th.jpg
+oc120,,Ovis aries ,Domestic Sheep ,Mammalia,Artiodactyla ,Ruminantia ,Bovidae ,"Skull, mandible ",SC 1019,,,,,,,,,,,,,,/objects/sc1019.jpg,/objects/small/sc1019_sm.jpg,/objects/thumbs/sc1019_th.jpg
+oc121,,Ovis aries ,Domestic Sheelp ,Mammalia,Artiodactyla ,Ruminantia ,Bovidae ,Skull ,SC 1041,"Skull sawed in half, painetd to indicate different skull bones ",,,,,,,,,,,,,/objects/sc1041.jpg,/objects/small/sc1041_sm.jpg,/objects/thumbs/sc1041_th.jpg
+oc122,,Bos taurus ,Domestic Cattle ,Mammalia,Artiodactyla ,Ruminantia ,Bovidae ,Scapula ,SC 1349,,,,,,,,,,,,,,/objects/sc1349.jpg,/objects/small/sc1349_sm.jpg,/objects/thumbs/sc1349_th.jpg
+oc123,,Bos taurus ,Domestic Cattle ,Mammalia,Artiodactyla ,Ruminantia ,Bovidae ,Pelvis ,SC 1350,Specimen is broken in two ,,,,,,,,,,,,,/objects/sc1350.jpg,/objects/small/sc1350_sm.jpg,/objects/thumbs/sc1350_th.jpg
+oc124,,Ovis sp.,Sheep (Ram),Mammalia,Artiodactyla ,Ruminantia ,Bovidae,Horn,SC 2034,,,,,,,,,,,,,,,,
+oc125,,,Bison or Cattle,Mammalia,Artiodactyla ,Ruminantia ,Bovidae,Horn,SC 2035,,,,,,,,,,,,,,,,
+oc126,,Alces alces ,European Elk Moose ,Mammalia,Artiodactyla ,Ruminantia ,Cervidae ,Skull ,SC1011,,,,,,,,,,,,,,,,
+oc127,,Odocoileus virginianus ,White-tailed Deer,Mammalia,Artiodactyla ,Ruminantia ,Cervidae ,"Skull, mandible ",SC1012,Anterior part of rostrum (maxilla) broken off on left side ,,,,,,,,,,,,,,,
+oc128,,Odocoileus virginianus ,White-tailed Deer,Mammalia,Artiodactyla ,Ruminantia ,Cervidae ,Vertebrae and Pelvis,SC 2032,,,,,,,,,,,,,,,,
+oc129,,Giraffa,Giraffe,Mammalia,Artiodactyla ,Ruminantia , Giraffidae,Vertebrae,SC 2033,,,,,,,,,,,,,,,,
+oc130,,Ruminantia sp. ,unknown,Mammalia,Artiodactyla ,Ruminantia ,Cervidae or Bovidae,Vertebrae ,SC 1369,Species determination uncertain ,,,,,,,,,,,,,,,
+oc131,,Ruminantia sp. ,unknown,Mammalia,Artiodactyla ,Ruminantia ,Cervidae or Bovidae,Humerus,SC 1358,species determination uncertain ,,,,,,,,,,,,,,,
+oc132,,Ruminantia sp. ,unknown,Mammalia,Artiodactyla ,Ruminantia ,Cervidae or Bovidae,Forelimb Bones ,SC 1359,"Species determination uncertain, specimen includes ulna and radius fused together ",,,,,,,,,,,,,,,
+oc133,,Steno bredanensis,Rough-toothed Dolphin ,Mammalia,Artiodactyla ,Odontoceti,Delphinidae ,"Skull, mandible ",SC 1015,,,,,,,,,,,,,,,,
+oc134,,Delphinapterus leucas,Beluga Whale,Mammalia,Artiodactyla ,Odontoceti,Monodontidae,"Skull, mandible ",SC 1016,,,,,,,,,,,,,,,,
+oc135,,Delphinapterus leucas,Beluga Whale,Mammalia,Artiodactyla ,Odontoceti,Monodontidae,2x Scapula,SC 1361,,,,,,,,,,,,,,,,
+oc136,,Delphinapterus leucas,Beluga Whale,Mammalia,Artiodactyla ,Odontoceti,Monodontidae,Baculum,SC 1362,,,,,,,,,,,,,,,,
+oc137,,Delphinapterus leucas,Beluga Whale,Mammalia,Artiodactyla ,Odontoceti,Monodontidae,Forelimb Bones ,SC 1363,Species determination uncertain,,,,,,,,,,,,,,,
+oc138,,Phocoenoides dalli,Dall's Porpoise,Mammalia,Artiodactyla ,Odontoceti,Phocoenidae,Lumbar Vertebrae,SC 1393,,,,,,,,,,,,,,,,
+oc139,,Hippopotamus amphibious ,Hippopotamus ,Mammalia,Artiodactyla ,Whippomorpha,Hippopotamidae ,"skull, mandible ",SC1001 ,,,,,,,,,,,,,,,,
+oc140,,Sus scrofa domesticus,Domestic Pig,Mammalia,Artiodactyla ,Suina ,Suidae,"Skull, mandible ",SC 1076,,,,,,,,,,,,,,,,
+oc141,,Sus scrofa ,Wild Boar,Mammalia,Artiodactyla ,Suiformes ,Suidae,Rostrum,SC 1373,,,,,,,,,,,,,,,,
+oc142,,Tayassu tajacu ,Collared Peccary ,Mammalia,Artiodactyla ,Suina,Tayassuidae ,Skull ,SC 1033,Skull is bleached ,,,,,,,,,,,,,,,
+oc143,,Canis lupus familiaris ,Domestic Dog ,Mammalia,Carnivora ,Caniformia ,Canidae ,"Full skeleton, mounted",SC1003,,,,,,,,,,,,,,,,
+oc144,,Canis lupus ,"Gray, Timber Wolf ",Mammalia,Carnivora ,Caniformia ,Canidae ,"Skull, mandible ",SC 1021,,,,,,,,,,,,,,,,
+oc145,,Canis lupus familiaris ,Bull Dog ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull ,SC 1030,,,,,,,,,,,,,,,,
+oc146,,Canis lupus ,Wolf ,Mammalia,Carnivora ,Caniformia ,Canidae ,"Skull, mandible ",SC 1034,,,,,,,,,,,,,,,,
+oc147,,Canis lupus familiaris ,Domestic Dog ,Mammalia,Carnivora ,Caniformia ,Canidae ,"Skull, mandible ",SC 1042,,,,,,,,,,,,,,,,
+oc148,,Urocyon cinereoargenteus,Gray Fox ,Mammalia,Carnivora ,Caniformia ,Canidae ,"Skull, mandible ",SC 1046,,,,,,,,,,,,,,,,
+oc149,,Canis lupus familiaris ,Domestic Dog ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull ,SC 1048,Skull cap sawed off ,,,,,,,,,,,,,,,
+oc150,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull ,SC 1052,,,,,,,,,,,,,,,,
+oc151,,Urocyon cinereoargenteus,Gray Fox ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull ,SC 1056,,,,,,,,,,,,,,,,
+oc152,,Canis lupus familiaris ,Domestic Dog ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull ,SC 1060,Left zygomatic process and left front part of rostrum broken ,,,,,,,,,,,,,,,
+oc153,,Canis lupus familiaris ,Domestic Dog ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull,SC 1061,Rostrum broken ,,,,,,,,,,,,,,,
+oc154,,Canis lupus familiaris ,Domestic Dog ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull ,SC 1071,,,,,,,,,,,,,,,,
+oc155,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull ,SC 1077,Skull sawed in half ,,,,,,,,,,,,,,,
+oc156,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull ,SC 1078,Skull sawed in half ,,,,,,,,,,,,,,,
+oc157,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull ,SC 1079,Skull sawed in half ,,,,,,,,,,,,,,,
+oc158,,Canis lupus familiaris ,Domestic Dog ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull Bones ,SC 1382,Specimen includes posterior skull bones ,,,,,,,,,,,,,,,
+oc159,,Canis lupus familiaris ,Domestic Dog ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull Bones ,SC 1383,Specimen includes posterior skull bones ,,,,,,,,,,,,,,,
+oc160,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull Bones ,SC 1384,Specimen includes anterior skull bones sawed in half ,,,,,,,,,,,,,,,
+oc161,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull Bones ,SC 1385,Specimen includes anterior skull bones sawed in half ,,,,,,,,,,,,,,,
+oc162,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Canidae ,Skull Bones ,SC 1386,"Specimen includes frontal, nasal bones and cheek teeth ",,,,,,,,,,,,,,,
+oc163,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Canidae ,Mandible ,SC 1387,Specimen Broken ,,,,,,,,,,,,,,,
+oc164,,Canis lupus ,"Gray, Timber Wolf ",Mammalia,Carnivora ,Caniformia ,Canidae ,Mandible ,SC 1391,,,,,,,,,,,,,,,,
+oc165,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Caniformia ,Skull ,SC 1054,,,,,,,,,,,,,,,,
+oc166,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Caniformia ,Skull ,SC 1055,,,,,,,,,,,,,,,,
+oc167,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Caniformia ,Skull ,SC 1057,,,,,,,,,,,,,,,,
+oc168,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Caniformia ,Skull ,SC 1058,Zygomatic processes broken ,,,,,,,,,,,,,,,
+oc169,,Canis latrans,Coyote ,Mammalia,Carnivora ,Caniformia ,Caniformia ,Skull ,SC 1059,Zygomatic processes and front portion of rostrum broken ,,,,,,,,,,,,,,,
+oc170,,Panthera leo or Panthera tigris ,Lion or Tiger,Mammalia,Carnivora ,Feliformia ,Felidae ,"Mounted skull, mandible ",SC1014,,,,,,,,,,,,,,,,
+oc171,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,"Full skeleton, mounted",SC 1023,,,,,,,,,,,,,,,,
+oc172,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,"Mounted skeleton, no skull or mandible ",SC 1024,,,,,,,,,,,,,,,,
+oc173,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,"Monted skeleton, no skull or mandible ",SC 1025,,,,,,,,,,,,,,,,
+oc174,,Panthera onca ,Jaguar ,Mammalia,Carnivora ,Feliformia ,Felidae ,Skull,SC 1032,Skull cap has been removed. species determination uncertain ,,,,,,,,,,,,,,,
+oc175,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,"Skull, mandible ",SC 1047,skull and mandilbe go together with specimen #1024 (mounted skeleton) ,,,,,,,,,,,,,,,
+oc176,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,"Skull, mandible ",SC 1072,,,,,,,,,,,,,,,,
+oc177,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,Skull ,SC 1073,Skull sawed in half ,,,,,,,,,,,,,,,
+oc178,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,Skull ,SC 1074,Skull sawed in half ,,,,,,,,,,,,,,,
+oc179,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,Full Skeleton ,SC 1374,Skeleton disarticulated,,,,,,,,,,,,,,,
+oc180,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,Skull ,SC 1377,Skull sawed in half ,,,,,,,,,,,,,,,
+oc181,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,Skull Bones ,SC 1378,Specimen includes rostrum ,,,,,,,,,,,,,,,
+oc182,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,Skull Bones ,SC 1379,"Specimen includes half of skull, posterior skull bones ",,,,,,,,,,,,,,,
+oc183,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,Skull Bones ,SC 1380,Specimen includes posterior skull bones ,,,,,,,,,,,,,,,
+oc184,,Felis catus ,Domestic Cat ,Mammalia,Carnivora ,Feliformia ,Felidae ,Mandible ,SC 1381,Specimen broke in two ,,,,,,,,,,,,,,,
+oc185,,Mephitis mephitis,Striped Skunk ,Mammalia,Carnivora ,Caniformia,Mephitadae ,"Skull, mandible ",SC 1082,,,,,,,,,,,,,,,,
+oc186,,Martes americana,American Marten,Mammalia,Carnivora ,Caniformia,Mustelidae ,"Skull, mandible ",SC 1081,,,,,,,,,,,,,,,,
+oc187,,Enhydra lutris ,Sea Otter,Mammalia,Carnivora ,Caniformia ,Mustelidae ,"Skull, mandible ",SC 1031,,,,,,,,,,,,,,,,
+oc188,,Lutra canadensis,River Otter,Mammalia,Carnivora ,Caniformia,Mustelidae ,Skull ,SC 1063,,,,,,,,,,,,,,,,
