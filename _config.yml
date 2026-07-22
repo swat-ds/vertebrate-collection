@@ -18,14 +18,14 @@ source-code: https://github.com/swat-ds/vertebrate-collection/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: From Local to Global - Consumption and the Quaker Body
+title: Swarthmore Osteology Collection —A Teaching & Research Archive of Vertebrate Skeletal Specimens
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Exhibition curated by the students of ARTH083 - Object, Media, Matter - Introduction to Material Culture and Material Histories, Fall 2025, Swarthmore College
+tagline: A digitized archive of vertebrate skeletal specimens housed in the Swarthmore College Department of Biology. This collection supports teaching in comparative anatomy, evolutionary biology, and mammalogy — featuring 510 specimens spanning 36 taxonomic orders.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Site created for the class ARTH083 taught by professor Susan Eberhard"
+description: "Site created..."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: swat; quaker; collection; material;
+keywords: swarthmore; libraries; biology; skeletal;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: swat-ds
 

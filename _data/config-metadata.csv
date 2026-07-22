@@ -1,18 +1,15 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date_archival,Archival Date,,,,
-date_is_approximate,Date is approximate?,,,,
-date,Date,,,DCTERMS.date,dateCreated
+commonname,Common Name,,,,,
+class,Class,,,,,
+order,Order,,,,,
+suborder,Suborder,,,,,
+family,Family,,,,,
+bone_type,Bone Type,,,,,
+item_code,Item Code,,,,,
+notes,Notes,,,,,
 description,Description,,,DCTERMS.description,description
-object_story,Object Story,,,,
-bio,Biography,,,,
-interviewee,Interviewee,,,,
-interviewer,Interviewer,,,,
-recipient,Recipient,,,,
-associated_names,Associated names,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
 marks_inscriptions,Marks/Inscriptions ,,,,
 latitude,Latitude,,,,
 geography,Geographies,,,,
@@ -22,25 +19,9 @@ latitude_2,Latitude 2,,,,
 longitude_2,Longitude 2,,,,
 identifier,Source Identifier,,,,
 doc_length,Document Length,,,,
-cabinet,Cabinet,,,,
-drawer,Drawer,,,,
+
 box,Box,,,,
 bag,Bag,,,,
 type_point,Object type,,,,
-material,Material,,,,
-material_source,Provenance,,,,
-material_history,Material History,,,,
-length_mm,Length (mm),,,,
-width_mm,Width (mm),,,,
-thickness_mm,Thickness (mm),,,,
-weight_g,Weight (g),,,,
-count,Count,,,,
-quaker_connection,Quaker connection,,,,
-language,Language,,,,
-object_story_consumption_use,"Object Story, Consumption and Use",,,,
-source,Research Sources,,,,
-original_format,Original format,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-accession_number,Accession Number,,,,
+
 rightsstatement,,,,DCTERMS.rights,license
