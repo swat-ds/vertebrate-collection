@@ -217,7 +217,10 @@ sortOptions.forEach((button) => {
   });
 }); 
 // default to Title sort on page load
-$(document).ready(function () {
-    $('.browse-sort-item[data-filter="title"]').click();
+window.addEventListener("load", function () {
+    setTimeout(function () {
+        var titleBtn = document.querySelector('.browse-sort-item[data-filter="title"]');
+        if (titleBtn) { titleBtn.click(); }
+    }, 300);
 });
 </script>
