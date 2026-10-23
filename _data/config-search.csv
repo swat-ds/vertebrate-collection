@@ -2,4 +2,4 @@ field,index,display
 title,true,true
 commonname,true,true
 subject,true,true
-objectid,true,true
+item_code,true,true
