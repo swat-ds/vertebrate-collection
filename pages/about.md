@@ -9,30 +9,33 @@ credits: true
 ---
 
 ## About the Project
-&nbsp;&nbsp;&nbsp;&nbsp;Although the Quaker community is typically only associated with the Eastern coast of the United States, they participated in material culture that stretched around the globe. This exhibition represents the nuanced history of Quaker culture through the objects that Quakers consumed: that is, acquired, created, displayed and used in their everyday lives.
+&nbsp;&nbsp;&nbsp;&nbsp;The vertebrate osteology collection is a teaching & research archive of over 500 vertebrate skeletal specimens. Spanning 36 taxonomic orders, this collections offers a hands on approach to learned about comparative anatomy, evolutionary biology, and mammalogy. These bones have been collected and donated by past Swarthmore professors and student researchers adding to the vast resources of the biology department special collections.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;The physical exhibition (McCabe Library First Floor, from December 9, 2025 to February 1, 2026), three sections highlight Quaker values and practices represented by the objects: “The Metaphorical and Individual Body,” “Local Community Practices,” and “Global Connectedness." This site is a compilation of research on all of the objects in the exhibition. Together, they reveal the complexity of Quaker identity, shaped through the embodied practices, communal life and global connections of material culture.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The bones are housed in the official biology collection (Singer First Floor). Come check out the collection to have a hands on experience! 
 
 ## Credits
 
 
-<h5> Professor Susan Eberhard </h5>
+<h5> Anna Savolainen </h5>
 
 <h5> DS Team </h5>
 <ul> 
-  <li>Liz Hogrefe</li>
-  <li>Amanda Licastro</li>
   <li>Roberto Vargas</li>
 </ul>
 
-<h5> Friends Historical Library </h5>
+<h5> Swarthmore Biology Collection </h5>
 <ul>
-  <li>Celia Caust-Ellenbogen</li>
-  <li>Caitlin Goodman</li>
-</ul>
-
-<h5> Students of ARTH083 - Object, Media, Matter - Introduction to Material Culture and Material Histories</h5>
+  <li>Jessica Morales Valenzuela</li>
 
 
 ## Questions?
-Contact the Swarthmore Digital Scholarship team at *digitalscholarship@swarthmore.edu* if you have any questions about the collection.
+Contact the Swarthmore Biology Collection team at *digitalscholarship@swarthmore.edu* if you have any questions.
+
+## Rights and Reuse
+
+Photographs in this collection are © Swarthmore College and licensed for reuse as follows:
+
+<a href="https://example.com">Untitled</a> © 2026 by <a href="https://example.com">Anna Savolainen</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+You are free to share and adapt these images for non-commercial purposes as long as you credit "Swarthmore College Osteology Collection" and link to the license. For commercial licensing or high-resolution files, please contact Anna Savolainen.

@@ -18,10 +18,9 @@ source-code: https://github.com/swat-ds/vertebrate-collection/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Swarthmore Osteology Collection —A Teaching & Research Archive of Vertebrate Skeletal Specimens
+title: Swarthmore Osteology Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A digitized archive of vertebrate skeletal specimens housed in the Swarthmore College Department of Biology. This collection supports teaching in comparative anatomy, evolutionary biology, and mammalogy — featuring 510 specimens spanning 36 taxonomic orders.
-# description appears in meta tags and other locations
+tagline: 
 # this description might appear in search result lists, keep around 160 characters max
 description: "Site created..."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
