@@ -10,6 +10,7 @@ credits: true
 
 ## About the Project
 &nbsp;&nbsp;&nbsp;&nbsp;The vertebrate osteology collection is a teaching & research archive of over 500 vertebrate skeletal specimens. Spanning 36 taxonomic orders, this collections offers a hands on approach to learned about comparative anatomy, evolutionary biology, and mammalogy. These bones have been collected and donated by past Swarthmore professors and student researchers adding to the vast resources of the biology department special collections.  
+
 &nbsp;&nbsp;&nbsp;&nbsp;The Biology Teaching Collections bring together a diverse range of natural history specimens, artwork, and historical materials collected and cared for by Swarthmore faculty, students, and researchers over the years. These collections serve as valuable resources for teaching, research, and exploring the natural world.
 
 &nbsp;&nbsp;&nbsp;&nbsp;The Bird Collection features over 800 study skins representing 403 species across 20 taxonomic orders, showcasing avian diversity, morphology, and natural history.
@@ -39,6 +40,7 @@ credits: true
 <h5> Faculty Advisor, Swarthmore College Biology Department </h5>
 <ul>
   <li>Jessica Morales Valenzuela</li>
+</ul>
 
 
 ## Questions?
