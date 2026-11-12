@@ -29,17 +29,17 @@ credits: true
 
 <h5> Project Manager and Photographer </h5>
 <ul>
-  <li>Anna Savolainen, *Biology + Sociology Anthropology 28'*</li>
+  <li>Anna Savolainen, <em>Biology + Sociology Anthropology 28'</em></li>
 </ul>
 
 <h5> Swarthmore College Libraries, Digital Scholarship Team </h5>
 <ul> 
-  <li>Roberto Vargas, *Head, Research & Instructional Services*</li>
+  <li>Roberto Vargas, <em>Head, Research & Instructional Services</em></li>
 </ul>
 
 <h5> Faculty Advisor, Swarthmore College Biology Department </h5>
 <ul>
-  <li>Jessica Morales Valenzuela, *Collection Manager and Biology Lab Instructor*</li>
+  <li>Jessica Morales Valenzuela, <em>Collection Manager and Biology Lab Instructor</em></li>
 </ul>
 
 
